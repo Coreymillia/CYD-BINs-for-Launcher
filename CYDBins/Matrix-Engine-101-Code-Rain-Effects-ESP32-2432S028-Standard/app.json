@@ -1,0 +1,16 @@
+{
+  "name": "Matrix-Engine-101-Code-Rain-Effects-ESP32-2432S028 (standard)",
+  "variant": "standard",
+  "target": "esp32-cyd",
+  "source_project": "/home/coreymillia/Documents/ToConvert/Matrix-Engine-101-Code-Rain-Effects-ESP32-2432S028-main",
+  "build_dir": "/home/coreymillia/Documents/ToConvert/Matrix-Engine-101-Code-Rain-Effects-ESP32-2432S028-main/.pio/build/esp32dev",
+  "files": {
+    "firmware": "firmware.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. Use firmware-merged.bin for full-device flashing tools when available.",
+  "icon_source": "generated"
+}

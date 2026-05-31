@@ -1,0 +1,16 @@
+{
+  "name": "ESPN-CYD-ESP32-Live-Scoreboard (standard)",
+  "variant": "standard",
+  "target": "esp32-cyd",
+  "source_project": "/home/coreymillia/Documents/ToConvert/ESPN-CYD-ESP32-Live-Scoreboard-main",
+  "build_dir": "/home/coreymillia/Documents/ToConvert/ESPN-CYD-ESP32-Live-Scoreboard-main/.pio/build/esp32dev",
+  "files": {
+    "firmware": "firmware.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. Use firmware-merged.bin for full-device flashing tools when available.",
+  "icon_source": "/home/coreymillia/Documents/ToConvert/ESPN-CYD-ESP32-Live-Scoreboard-main/IMG_20260225_235840.jpg"
+}

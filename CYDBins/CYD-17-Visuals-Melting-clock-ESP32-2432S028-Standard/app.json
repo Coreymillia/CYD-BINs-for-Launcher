@@ -1,0 +1,15 @@
+{
+  "name": "CYD-17-Visuals-Melting-clock-ESP32-2432S028-main (standard)",
+  "variant": "standard",
+  "target": "esp32-cyd",
+  "source_project": "/home/coreymillia/Documents/ToConvert/CYD-17-Visuals-Melting-clock-ESP32-2432S028-main",
+  "files": {
+    "firmware": "firmware.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. firmware-merged.bin is for full flashing when available.",
+  "icon_source": "generated"
+}

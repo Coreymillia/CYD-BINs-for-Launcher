@@ -1,0 +1,16 @@
+{
+  "name": "CYDWiFiScanner (standard)",
+  "target": "esp32-cyd",
+  "variant": "standard",
+  "build_env": "esp32dev",
+  "source_project": "/home/coreymillia/Documents/CYDWiFiScanner",
+  "files": {
+    "firmware": "firmware.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. firmware-merged.bin is for full flashing.",
+  "icon_source": "generated"
+}

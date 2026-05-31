@@ -1,0 +1,16 @@
+{
+  "name": "CYD-ESP32-Pi-hole-Monitor (inverted)",
+  "variant": "inverted",
+  "target": "esp32-cyd-inverted",
+  "source_project": "/home/coreymillia/Documents/ToConvert/CYD-ESP32-Pi-hole-Monitor-main/INVERTEDPihole",
+  "build_dir": "/home/coreymillia/Documents/ToConvert/CYD-ESP32-Pi-hole-Monitor-main/INVERTEDPihole/.pio/build/esp32dev",
+  "files": {
+    "firmware": "firmware.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. Use firmware-merged.bin for full-device flashing tools when available.",
+  "icon_source": "/home/coreymillia/Documents/ToConvert/CYD-ESP32-Pi-hole-Monitor-main/IMG_20260301_094008.jpg"
+}

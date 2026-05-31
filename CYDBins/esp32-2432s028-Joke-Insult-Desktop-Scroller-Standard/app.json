@@ -1,0 +1,15 @@
+{
+  "name": "esp32-2432s028-Joke-Insult-Desktop-Scroller-main (standard)",
+  "variant": "standard",
+  "target": "esp32-cyd",
+  "source_project": "/home/coreymillia/Documents/ToConvert/esp32-2432s028-Joke-Insult-Desktop-Scroller-main",
+  "files": {
+    "firmware": "firmware.bin",
+    "bootloader": "bootloader.bin",
+    "partitions": "partitions.bin",
+    "merged_firmware": "firmware-merged.bin",
+    "icon": "icon.png"
+  },
+  "install_notes": "Use firmware.bin for launcher install. firmware-merged.bin is for full flashing when available.",
+  "icon_source": "generated"
+}
