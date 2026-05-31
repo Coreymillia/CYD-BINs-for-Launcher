@@ -10,13 +10,13 @@ Join our [Discord community](https://discord.gg/BE9by2a2FF)
 
 ## Coreymillia CYD BIN Packs
 This fork also includes prebuilt CYD app bundles so you can install directly from SD with Launcher.
+Sorted out JUST the bins for the launcher in Launcher Bins. So far all tested bins working. 
 
 - `CYDBins/`: standard CYD builds
 - `CYDinvertedBINs/`: inverted-display CYD builds
 
 Each project folder contains ready-to-use firmware files for that app. If only merged `.bin` files are present for a project, those are intentional and are the primary files to use.
 
-NOTE: Not all .bins have been tested yet. Only the NAMED .bins are for your sd card. The matrix... I think was for an inverted display. In case anyone out there tries to use any of these immediately. I did not finish sorting them out. 
 
 ## How to Install
 * Use the Flasher: [Launcher Flasher](https://bmorcelli.github.io/Launcher/).
