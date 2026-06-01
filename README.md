@@ -10,7 +10,10 @@ Join our [Discord community](https://discord.gg/BE9by2a2FF)
 
 ## Coreymillia CYD BIN Packs
 This fork also includes prebuilt CYD app bundles so you can install directly from SD with Launcher.
-Sorted out JUST the bins for the launcher in Launcher Bins. So far all tested bins working. 
+
+ ## Note: I have sorthed out JUST the bins for the launcher in LAUNCHERBins directory. So far all tested bins working. 
+Some files went MIA while doing this. But I will add the rest of my projects... probably. Not sure anyone cares. But.  
+3 of my favorite projects are the Matrix rain, Wifi Scanner, and WXRadar... If you want more info on each individual project right this moment, check my repos...
 
 - `CYDBins/`: standard CYD builds
 - `CYDinvertedBINs/`: inverted-display CYD builds
